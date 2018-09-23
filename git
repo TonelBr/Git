@@ -1,0 +1,18 @@
+Comandos git
+
+#iniciar monitoramento
+ #git init
+
+#adcionar arquivos git add . git add *
+
+#salvao o que ja fez 
+ #git commit -m "mensagem(texto)"
+
+# atualizar projeto
+git pull oriring mast
+
+#enviar arquivos para github
+  git push origin maste
+
+#verificar status
+ #git stataus
